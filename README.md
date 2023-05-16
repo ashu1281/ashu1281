@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ashishggaikwad/)
 - 💻 website : [website-portfolio](https://ashishgaikwad.me)
 ### Github Stats 💡
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu1281&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu1281&theme=dark)](https://github.com/ashu1281/github-readme-stats)
 
 <!-- (url)### Leetcode Profile [(🔗link)](https://leetcode.com/waykarshubham/) -->
 
