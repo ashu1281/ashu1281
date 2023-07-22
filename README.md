@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ### Github Stats 💡
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu1281&show_icons=true&theme=transparent)
 
-### Leetcode Profile [(🔗link)](https://leetcode.com/ashishgaikwad/)
+### Leetcode Profile
 
+  [![Ashish's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ashishgaikwad&theme=dark)](https://leetcode.com/ashishgaikwad/)
 
-  [![Ashish's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ashishgaikwad&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+### GFG Stats
 
-### GFG Stats  [(🔗link)](https://auth.geeksforgeeks.org/user/gaikwadashish628)
  [![Ashish's GFG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gaikwadashish628)](https://auth.geeksforgeeks.org/user/gaikwadashish628)
