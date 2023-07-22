@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ### Github Stats 💡
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu1281&theme=dark)](https://github.com/ashu1281/github-readme-stats)
 
-<!-- (url)### Leetcode Profile [(🔗link)](https://leetcode.com/waykarshubham/) -->
+### Leetcode Profile [(🔗link)](https://leetcode.com/ashishgaikwad/)
 
 
-<!--   [![shubham's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=waykarshubham&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
-
+  [![Ashish's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ashishgaikwad&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
