@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
   [![Ashish's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ashishgaikwad&theme=dark)](https://leetcode.com/ashishgaikwad/)
 
-### GFG Stats
+### GeeksforGeeks Stats
 
  [![Ashish's GFG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gaikwadashish628)](https://auth.geeksforgeeks.org/user/gaikwadashish628)
