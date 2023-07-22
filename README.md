@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
   [![Ashish's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ashishgaikwad&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-### GFG Stats  [(🔗link)](https://leetcode.com/ashishgaikwad/)
- [![Ashish's GFG stats](https://gfgstats.onrender.com/?userName=gaikwadashish628)
+### GFG Stats  [(🔗link)](https://auth.geeksforgeeks.org/user/gaikwadashish628)
+ [![Ashish's GFG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gaikwadashish628)](https://auth.geeksforgeeks.org/user/gaikwadashish628)
