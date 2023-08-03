@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ashishggaikwad/)
 - 💻 website : [website-portfolio](https://ashishgaikwad.me)
+<!-- 
 ### Github Stats 💡
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu1281&show_icons=true&theme=transparent)
-
+-->
 ### Leetcode Profile
 
   [![Ashish's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ashishgaikwad&theme=dark)](https://leetcode.com/ashishgaikwad/)
